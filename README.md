@@ -1,10 +1,10 @@
-## Github Repository Searcher
+# Github Repository Searcher
 
-# Overview
+## Overview
 
 GitHub Repository Searcher is a powerful and user-friendly application designed to help users efficiently search and evaluate repositories on GitHub. The tool prioritizes repositories based on their value to the community using several criteria, ensuring users find the most relevant and useful repositories for their needs.
 
-# Evaluation Criteria
+## Evaluation Criteria
 
 To determine the relevance and value of repositories, the following criteria are used:
 Number of Stars: Indicates the popularity and community approval of the repository.
@@ -15,7 +15,7 @@ Language: The programming language(s) used in the repository.
 Description: A concise summary of what the repository is about.
 File Types: The types of files contained within the repository, indicating its content and purpose.
 
-# Features
+## Features
 
 Keyword Search: Search for repositories using specific keywords and phrases.
 Filter Options: Filter search results by language, stars, forks, and other criteria.
@@ -23,14 +23,14 @@ Sorting: Sort results by relevance, stars, forks, or update date.
 Detailed Repository Information: View comprehensive details about each repository, including description, language, stars, forks, and more.
 User-Friendly Interface: Enjoy a clean and intuitive interface built with Gradio for seamless navigation and interaction.
 
-# Usage
+## Usage
 
 Open the application: Navigate to output url(eg:http://127.0.0.1:7860/) in your web browser.
 Enter search criteria: Use the search bar to enter keywords and apply any desired filters.
 Explore results: Browse through the search results and click on any repository for detailed information.
 Access repository: Click the provided link to view the repository directly on GitHub.
 
-# Technologies Used
+## Technologies Used
 
 Python: The core programming language used for development.
 GitHub API: Used to fetch repository data.
